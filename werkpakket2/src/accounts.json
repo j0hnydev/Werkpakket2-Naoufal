@@ -1,0 +1,17 @@
+[
+  {
+    "email": "naoufal@pxl.com",
+    "password": "pxl",
+    "cart": []
+  },
+  {
+    "email": "robinbraibant@pxl.com",
+    "password": "pxl",
+    "cart": []
+  },
+  {
+    "email": "test@test",
+    "password": "test",
+    "cart": []
+  }
+]
