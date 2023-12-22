@@ -74,7 +74,7 @@
     "btw": 21,
     "stock": 30,
     "genre": ["All", "Shounen Jump"],
-    "age": ["-12, 12+"]
+    "age": ["-12", "12+"]
   },
   {
     "id": 8,
@@ -85,7 +85,8 @@
     "btw": 21,
     "stock": 30,
     "genre": ["All", "Shounen Jump"],
-    "age": ["-12, 12+"]  },
+    "age": ["-12", "12+"]
+  },
   {
     "id": 9,
     "title": "Fullmetal Alchemist #1",
@@ -95,7 +96,8 @@
     "btw": 21,
     "stock": 190,
     "genre": ["All", "Shounen Jump", "Mystery"],
-    "age": ["-12, 12+"]  },
+    "age": ["-12", "12+"]
+  },
   {
     "id": 10,
     "title": "Fullmetal Alchemist #2",
@@ -105,7 +107,8 @@
     "btw": 21,
     "stock": 60,
     "genre": ["All", "Shounen Jump", "Mystery"],
-    "age": ["-12, 12+"]  },
+    "age": ["-12", "12+"]
+  },
   {
     "id": 11,
     "title": "Tokyo Ghoul #1",
@@ -175,29 +178,29 @@
   {
     "id": 17,
     "title": "Demon Slayer #1",
-    "description": "Chapter 2: They Call Him Strawhat Luffy",
+    "description": "Chapter 1: Cruelty",
     "image": "ds.png",
     "price": 4,
     "btw": 21,
     "stock": 0,
     "genre": ["Shounen Jump", "Mystery"],
-    "age": ["12+, 18+"]
+    "age": ["12+", "18+"]
   },
   {
     "id": 18,
     "title": "Demon Slayer #2",
-    "description": "Chapter 2: They Call Him Strawhat Luffy",
+    "description": "Chapter 2: The Sudden Visitor: The Boy's Trauma",
     "image": "ds2.png",
     "price": 4,
     "btw": 21,
     "stock": 35,
     "genre": ["All", "Shounen Jump", "Mystery"],
-    "age": ["12+, 18+"]
+    "age": ["12+", "18+"]
   },
   {
     "id": 19,
-    "title": "Bleach #2",
-    "description": "Chapter 2: They Call Him Strawhat Luffy",
+    "title": "Bleach #1",
+    "description": "Chapter 1: Death and Strawberry",
     "image": "bleach.png",
     "price": 4,
     "btw": 21,
@@ -208,7 +211,7 @@
   {
     "id": 20,
     "title": "Bleach #2",
-    "description": "Chapter 2: They Call Him Strawhat Luffy",
+    "description": "Chapter 2: The Substitute",
     "image": "bleach2.png",
     "price": 4,
     "btw": 21,
