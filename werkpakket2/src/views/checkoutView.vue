@@ -57,7 +57,7 @@ export default {
   <div class="container">
 
     <router-link to='/shop'>
-      <button>Back to shop</button>
+      <button>Back to shop!</button>
     </router-link>
 
     <div class="adress-container">
